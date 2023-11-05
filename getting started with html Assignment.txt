@@ -1,0 +1,11 @@
+Q/2) comments are used to explain my code as comments are not displayed in the browser.
+Example:-
+<!-- we can comment by using ctrl+/ tab -->
+
+Q/4) Tag:- HTML tags are keyword on a webpage that tells the browser how to display it. tags are made up of twp parts. opening and closing tag (<tag></tag>).
+for example: <html> is opening tag and </html> is closing tag.
+
+Element:- HTML element is everything from the starting tag to the ending tag. 
+for example: <h1> This whole is called element </h1> .
+
+Q/5) All HTML document mmust start with a <!DOCTYPE> decleration. the decleration is not an HTML Tag. It is just an information to the browser what document type is come or we use.
